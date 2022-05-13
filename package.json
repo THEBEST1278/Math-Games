@@ -1,0 +1,41 @@
+{
+  "name": "EndInternetCensorship",
+  "version": "1.0.0",
+  "description": "A functional, free, and easy to use web proxy site.",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node start.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Browncha023/EndInternetCensorship.git"
+  },
+  "keywords": [
+    "proxy",
+    "bypass",
+    "unblocker",
+    "endinternetcensorship",
+    "iboss"
+  ],
+  "author": "Browncha023",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Browncha023/EndInternetCensorship/issues"
+  },
+  "homepage": "https://github.com/Browncha023/EndInternetCensorship#readme",
+  "dependencies": {
+    "acorn-hammerhead": "^0.5.0",
+    "body-parser": "^1.19.0",
+    "corrosion": "file:corrosion",
+    "css-tree": "^1.1.3",
+    "express": "^4.17.1",
+    "express-ws": "^5.0.2",
+    "jsdom": "^18.0.0",
+    "mime": "^2.5.2",
+    "parse5": "^6.0.1",
+    "request": "^2.88.2",
+    "webpack": "^5.64.2",
+    "ws": "^8.2.3"
+  }
+}

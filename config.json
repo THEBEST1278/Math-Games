@@ -1,0 +1,9 @@
+{
+  "port": 8443,
+  "ssl": false,
+  "title": "EndInternetCensorship",
+  "prefix": "/go/",
+  "codec": "xor",
+  "blacklist": [ "accounts.google.com" ],
+  "smokeprefix": "/web/"
+} 
