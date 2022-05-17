@@ -5,7 +5,7 @@ if you want to clone the website just deploy this on replit or netlify. If you n
 
 
 [![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/THEBEST1278/Math-Games)
-[![Run on Replit](https://raw.githubusercontent.com/THEBEST1278/deploy-buttons/master/buttons/remade/replit.svg)](https://replit.com/github/THEBEST1278/Math-Games)
+[![Run on Replit](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg)](https://replit.com/github/THEBEST1278/Math-Games)
 
 
 
