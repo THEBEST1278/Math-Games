@@ -13,4 +13,4 @@ if you want to clone the website just deploy this on replit or netlify. If you n
 
 
 
-Remember to tell all your friends
+Remember to tell all your friends :)
